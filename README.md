@@ -7,6 +7,7 @@
 # Clone o repositório:
 
 git clone https://github.com/rnglx/Bytes-to-ASCII.git
+
 cd Bytes-to-ASCII
 
 # Execute o script: No terminal, execute o script Python:
